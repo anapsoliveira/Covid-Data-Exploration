@@ -27,6 +27,7 @@ When importing text files to SQL Server, the default data type for all columns i
 I'll demonstrate two ways to change the default data type:
 
 - Configuring the properties of each column during the import of the data
+
 ![Data Import Screenshot](https://raw.githubusercontent.com/anapsoliveira/Covid-Data-Exploration/main/images/dataImport.JPG)
 
 - Using SQL commands to convert the data type for a column
@@ -154,6 +155,8 @@ Result:
 ## Authors 👋
 
 - [@anapsoliveira](https://www.github.com/anapsoliveira)
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/anapsoliveira)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anapsoliveira/)
 
