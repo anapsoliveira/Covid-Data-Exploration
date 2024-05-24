@@ -11,3 +11,7 @@ Dates from 01/01/2020 to 30/04/2021.
 **Database:** SQL Server
 
 **Data Manipulation:** Excel and SQL (Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types)
+
+## Authors
+
+- [@anapsoliveira](https://www.github.com/anapsoliveira)
