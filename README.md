@@ -5,7 +5,7 @@ Explore the global data on confirmed COVID-19 deaths available online for the fi
 
 Dates from 01/01/2020 to 30/04/2021.
 
-***Public DataSet:*** 🔗[Our World in Data - Coronavirus (COVID-19) Deaths](https://ourworldindata.org/covid-deaths)
+***Public DataSet:*** 🔗[ Our World in Data - Coronavirus (COVID-19) Deaths](https://ourworldindata.org/covid-deaths)
 
 ## 🛠 Skills used: 
 
@@ -68,6 +68,7 @@ exec sp_rename 'CovidDeaths.DateTemp', 'date', 'column'
 ```
 
 Repeat these steps for all all the columns that needs to tbe changed under CovidDeaths and CovidVaccinations tables.
+
 # Data Exploration
 
 Some of the queries created and the results:
@@ -152,6 +153,14 @@ from #PercentPopulationVaccinated
 Result:
 
 ![TotalNumberPerDay](https://raw.githubusercontent.com/anapsoliveira/Covid-Data-Exploration/main/images/Result3.JPG)
+
+
+# Data Visualization
+
+🔗[ Covid-19 Dashboard | Tableau Public](https://public.tableau.com/app/profile/ana.paula.santos.de.oliveira/viz/Covid-19Dashboard_17165294657000/Dashboard1)
+
+![Tableau Dashboard](https://raw.githubusercontent.com/anapsoliveira/Covid-Data-Exploration/main/images/Visualization.jpg)
+
 ## Authors 👋
 
 - [@anapsoliveira](https://www.github.com/anapsoliveira)
